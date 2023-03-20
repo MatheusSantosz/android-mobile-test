@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="login_page_label">Login</string>
+    <string name="second_fragment_label">Logado Com Sucesso</string>
+    <string name="Logar">Logar</string>
+    <string name="Voltar">Voltar</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+
+    <string name="login_page">Pagina de Login</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
